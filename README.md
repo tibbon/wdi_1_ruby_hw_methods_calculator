@@ -1,7 +1,7 @@
 # Calculator Homework
 
 ## Objectives:
-- Practice with functions, loops, conditions, user-input, switch/case
+- Practice with functions, loops, conditions, user-input
 
 ## Activity
 
