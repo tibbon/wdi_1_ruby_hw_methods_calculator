@@ -4,7 +4,15 @@
 - Practice with functions, loops, conditions, user-input, switch/case
 
 ## Activity
-- You will be building a calculator.  A calculator can perform multiple arithmetic operations.  Your function should allow the user to choose which operation is expected, enter in the values to perform the operation on, and ultimately view the result.
+
+You choose from *one* of the following activities. 
+
+- You may build a calculator.  A calculator can perform multiple arithmetic operations.  Your function should allow the user to choose which operation is expected, enter in the values to perform the operation on, and ultimately view the result.
+- You may explore the objective topics and produce a small basic game, or other exercise of your liking in Ruby. Recommendations include dice games, hangman, text adventure/stories or slot-machine like game. Do *not* attempt to use any graphics libraries or game frameworks. 
+
+## Calculator Specifications
+
+Should you decide to build the calculator, follow the instructions below. 
 
 ###Specification:
 - A user should be given a menu of operations
